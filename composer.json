@@ -1,0 +1,23 @@
+{
+    "name": "selikhovleonid/phpdoc-parser",
+    "description": "PHPDoc Parser",
+    "keywords": [
+        "phpdoc",
+        "parser"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Leonid Selikhov",
+            "email": "selikhovleonid@ya.ru",
+            "role": "Developer"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "files": ["src/PhpDocParser.php"]
+    }
+}
