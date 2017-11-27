@@ -4,7 +4,7 @@
  * This namespace contains tools for PHPDoc blocks parsing.
  * @author Leonid Selikhov
  */
-namespace nadir2\PhpDocParser;
+namespace nadir2\phpDocParser;
 
 /**
  * This function parses the passed PHPDoc line into an array structure which
