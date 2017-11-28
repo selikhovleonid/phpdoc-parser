@@ -7,3 +7,12 @@ Yet Another PHPHDoc Parser
 [![PHP from Packagist](https://img.shields.io/packagist/php-v/selikhovleonid/phpdoc-parser.svg)](https://packagist.org/packages/selikhovleonid/phpdoc-parser)
 
 This tiny tool provides parsing PHPDoc comments into a data structure.
+
+## Installing
+
+The minimum required PHP version is PHP 5.3. To install this parser you will need 
+the Composer.
+
+```
+php composer.phar require selikhovleonid/phpdoc-parser
+```
